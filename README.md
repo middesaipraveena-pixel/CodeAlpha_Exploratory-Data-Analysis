@@ -62,6 +62,7 @@ pip install pandas numpy matplotlib seaborn
 # Run the Jupyter Notebook
 jupyter notebook
 ```
+ https://github.com/middesaipraveena-pixel/CodeAlpha_Exploratory-Data-Analysis.git
 
 ## 📁 Project Structure
 
